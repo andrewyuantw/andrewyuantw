@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <h1>
     Hi! I'm Andrew
+    </h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <div id="badges">
       <a href="https://www.linkedin.com/in/andrewyuantw">
@@ -10,7 +11,7 @@
         <img src="https://img.shields.io/badge/Personal Site-red?style=for-the-badge&logo=safari&logoColor=white" alt="Personal Website Badge"/>
       </a>
     </div>
-  </h1>
+  
   
 </div>
 
